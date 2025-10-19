@@ -1,0 +1,1 @@
+# auraprint-cropper1
